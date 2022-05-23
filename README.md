@@ -1,4 +1,6 @@
-<h1>Hi there! I'm Bekir Sıtkı ÖZBAYIK 👋 </h1>
+<center><h1>Hi there! I'm Bekir Sıtkı ÖZBAYIK 👋 </h1></center>
+<hr>
+
 
 - 👋 Hi, I’m @fztbso
 - 👀 I’m interested in ...
