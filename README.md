@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 Connect with me:
 
-<a href=https://www.linkedin.com/in/bekirsitkiozbayik/><img src=https://cdn-icons-png.flaticon.com/512/174/174857.png></a>
+<a href=https://www.linkedin.com/in/bekirsitkiozbayik/><img src=https://cdn-icons-png.flaticon.com/512/174/174857.png width=40 height=40></a>
