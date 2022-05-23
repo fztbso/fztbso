@@ -2,6 +2,8 @@
 
 https://github-profile-trophy.vercel.app/?fztbso=ryo-ma&theme=flat
 
+[![trophy](https://github-profile-trophy.vercel.app/?fztbso=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @fztbso
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
