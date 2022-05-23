@@ -1,8 +1,5 @@
 <h1>Hi there! I'm Bekir Sıtkı ÖZBAYIK 👋 </h1>
 
-https://github-profile-trophy.vercel.app/?fztbso=ryo-ma&theme=flat
-
-[![trophy](https://github-profile-trophy.vercel.app/?fztbso=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @fztbso
 - 👀 I’m interested in ...
