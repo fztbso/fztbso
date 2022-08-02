@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bekir</h1>
 <h3 align="center">I am a Software Developer trying to be a Mobile Application Developer.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fztbso" alt="fztbso" /></a> </p>
+
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fztbso](https://github.com/fztbso)
