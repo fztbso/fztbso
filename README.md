@@ -2,11 +2,11 @@
 <h3 align="center">I am a Software Developer trying to be a Mobile Application Developer.</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fztbso](https://github.com/fztbso)
 
-- 💬 Ask me about **JavaScript, React, React Native**
+- 💬 Ask me about **Dart, Flutter**
 
 - 📫 How to reach me **fztbso@gmail.com**
 
